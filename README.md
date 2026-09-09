@@ -6,14 +6,18 @@
   <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/01_poster.png" width="100%" alt="Poster: IMD - It's My Device. A settings/services manager that shows the live status of your settings, and a hider that turns them off and back on around a restrictive app. Lists the supported settings, the three automations, and five screenshots of the app">
 </p>
 
-<a href="https://apps.obtainium.imranr.dev/redirect.html?r=obtainium%3A%2F%2Fadd%2Fhttps%3A%2F%2Fgithub.com%2Fsoul-99%2FSU_IMD">
-  <img src="https://raw.githubusercontent.com/ImranR98/Obtainium/main/assets/graphics/badge_obtainium.png" alt="Get it on Obtainium" height="54">
-</a>
-<a href="https://github.com/soul-99/SU_IMD/releases">
-  <img src="https://raw.githubusercontent.com/Kunzisoft/Github-badge/main/get-it-on-github.png" alt="Get it on GitHub" height="54">
-</a>
+<p align="center">
+  <a href="https://apps.obtainium.imranr.dev/redirect.html?r=obtainium%3A%2F%2Fadd%2Fhttps%3A%2F%2Fgithub.com%2Fsoul-99%2FSU_IMD"><img src="https://raw.githubusercontent.com/ImranR98/Obtainium/main/assets/graphics/badge_obtainium.png" alt="Get it on Obtainium" height="80"></a>
+  <a href="https://github.com/soul-99/SU_IMD/releases"><img src="https://raw.githubusercontent.com/Kunzisoft/Github-badge/main/get-it-on-github.png" alt="Get it on GitHub" height="80"></a>
+  <a href="https://f-droid.org/packages/com.soul_99.suIMD/"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="80"></a>
+</p>
 
-IMD (It's My Device) is a ***<mark>powerful settings/ services manager</mark>*** and ***<mark>settings/ services hider</mark>*** (automated disable-enable settings) for restrictive apps (banking, payments...etc). It supports the following settings / services :
+<p align="center">
+  <a href="https://github.com/soul-99/SU_IMD/releases"><img src="https://img.shields.io/github/v/release/soul-99/SU_IMD?style=for-the-badge" alt="Latest release"></a>
+  <a href="https://github.com/soul-99/SU_IMD/releases"><img src="https://img.shields.io/github/downloads/soul-99/SU_IMD/total?style=for-the-badge&amp;label=GitHub%20downloads" alt="GitHub downloads"></a>
+</p>
+
+IMD (It's My Device) is a **<mark>&nbsp;powerful settings/ services manager&nbsp;</mark>** and **<mark>&nbsp;settings/ services hider&nbsp;</mark>** (automated disable-enable settings) for restrictive apps (banking, payments...etc). It supports the following settings / services :
 
 1. Developer settings
 2. ADB / Debugging
@@ -22,12 +26,12 @@ IMD (It's My Device) is a ***<mark>powerful settings/ services manager</mark>***
 5. Shizuku service
 6. and many more (per app configuration - hiding framework, hint: use Settings observer for help)
 
-#### How this works flowchart
+## How this works
 
 ```mermaid
 flowchart TD
     A["User opens app from IMD / IMD generated app shortcut"]
-    B["IMD actually disables these settings<br/><i><u>no app's security policy is broken</u></i>"]
+    B["IMD actually disables these settings<br/><b><mark>no app's security policy is broken</mark></b>"]
     C["Use your app normally"]
     D["Use Revert function<br/><i>(accessible via: notification / quick toggle / Quick settings tile / homescreen shortcut / IMD settings manager)</i>"]
     E["IMD enables the disabled settings"]
@@ -95,10 +99,14 @@ I want it to be taken over by more capable developers in future, as my professio
 
 1. **Share this project/app to community. This is most helpful and will help to keep the project alive.**
    (I don't need any credit or mentions) [Share the repo »](https://github.com/soul-99/SU_IMD)
-2. ⭐ Star [the GitHub repo](https://github.com/soul-99/SU_IMD) to increase its visibility.
+
+   ```
+   https://github.com/soul-99/SU_IMD
+   ```
+2. [⭐](https://github.com/soul-99/SU_IMD) Star the GitHub repo to increase its visibility.
 3. [Report](https://github.com/soul-99/SU_IMD/issues/) bugs in the main repo.
 4. [Join](https://www.reddit.com/r/SU_IMD/) discussions.
-5. Contribute to the code or docs, if you are a developer.
+5. [Contribute](CONTRIBUTING.md) to the code or docs, if you are a developer.
 
 <p align="right">
   <b>- soul_99</b><br>

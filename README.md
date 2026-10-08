@@ -2,6 +2,9 @@
 
 <sub>Supercharged fork of [Geto](https://github.com/JackEblan/Geto)</sub>
 
+⚠️⚠️⚠️**UPDATE NOTICE: next update scheduled mid November to mid December. 
+Kindly flag issues (github issues) and feature requests (on github discussion or r/su_imd subreddit)**
+
 <p>
   <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/01_poster.png" width="100%" alt="Poster: IMD - It's My Device. A settings/services manager that shows the live status of your settings, and a hider that turns them off and back on around a restrictive app. Lists the supported settings, the three automations, and five screenshots of the app">
 </p>
